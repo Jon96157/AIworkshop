@@ -20,17 +20,49 @@
 #### 1-2 深度學習介紹
 
 ## Lesson 2
-#### 參考書籍
+### 參考書籍
 [Deep Learning with Python 繁中版](https://www.books.com.tw/products/0010822932?sloc=main) <br/>
 [Machine Learning Python Cookbook 繁中版](https://www.books.com.tw/products/0010834990?sloc=main) <br/>
 [Machine learning with python cookbook - notebooks](https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes) <br/>
-#### 1-3 Kaggle平台與Tensorflow安裝
-#### 1-4 Python 程式設計
+### 1-3 Kaggle平台與Tensorflow安裝
+### 1-4 Python 程式設計
+### 1-5 OpenCV 影像處理
 
 ## Lesson 3
-#### 1-6 神經網路簡介與機器學習範例
-#### 2-1 CNN模型架構介紹
+### 1-6 神經網路簡介與機器學習範例
+### 2-1 CNN模型架構介紹
 
 ## Lesson 4
-#### 2-1-1 手寫數字辨識實作
-#### 2-1-2 手勢辨識及控制實作
+### 2-1-1 手寫數字辨識實作
+### 2-1-2 手勢辨識及控制實作
+
+## Lesson 5
+### 2-2 CNN模型與影像分類應用介紹
+### 2-2-1 影像分類應用實作
+
+## Lesson 6
+### 2-2-2 轉移學習
+### 2-2-3 連續學習
+
+## Lesson 7
+### 2-3 CNN模型與人臉辨識應用介紹
+### 2-3-1 表情偵測專題實作
+### 2-3-2 口罩偵測專題實作
+### 2-3-3 人臉辨識應用實作
+
+## Lesson 8
+### 2-4 CNN模型與物件偵測應用介紹
+### 2-4-1 物件偵測應用實作
+
+## Lesson 9
+### 2-4-2 車流分析專題實作
+### 2-4-3 人流分析專題實作
+
+## Lesson 10
+### 2-5 CNN模型與影像分割應用介紹
+### 2-5-1 影像分割應用實作
+
+## Lesson 11
+### 2-6 CNN模型與姿態辨識應用介紹
+### 2-6-1 姿態辨識應用實作
+
