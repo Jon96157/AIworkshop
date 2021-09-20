@@ -1,7 +1,7 @@
-# AIworkshop
+# 人工智慧與物聯網裝置
 
 ## Lesson 1.
-###     1-1  AI人工智慧介紹
+### 1-1  AI人工智慧介紹
 
 #### AI 應用
 [日本超級電腦幫助對抗COVID-19　找出7種有效藥物](https://www.digitimes.com.tw/iot/article.asp?cat=158&cat2=70&ct=o&id=0000618603_P2O75ELHLRSZP64NC4TA0) <br/>
@@ -30,3 +30,7 @@
 ## Lesson 3
 ### 1-6 神經網路簡介與機器學習範例
 ### 2-1 CNN模型架構介紹
+
+## Lesson 4
+### 2-1-1 手寫數字辨識實作
+### 2-1-2 手勢辨識及控制實作
