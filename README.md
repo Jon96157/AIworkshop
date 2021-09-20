@@ -29,3 +29,9 @@
 [The Impact of Artificial Intelligence and Deep Learning in Eye Diseases: A Review](https://www.frontiersin.org/articles/10.3389/fmed.2021.710329/full)
 
 ### 1-2  深度學習介紹
+
+## Lesson 2
+### 參考書籍
+[Deep Learning with Python 繁中版](https://www.books.com.tw/products/0010822932?sloc=main) <br/>
+[Machine Learning Python Cookbook 繁中版](https://www.books.com.tw/products/0010834990?sloc=main) <br/>
+[Machine learning with python cookbook notes](https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes)
