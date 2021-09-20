@@ -24,8 +24,8 @@
 [Deep Learning with Python 繁中版](https://www.books.com.tw/products/0010822932?sloc=main) <br/>
 [Machine Learning Python Cookbook 繁中版](https://www.books.com.tw/products/0010834990?sloc=main) <br/>
 [Machine learning with python cookbook - notebooks](https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes) <br/>
-### 1-3 Kaggle平台與Tensorflow安裝
-### 1-4 Python 程式設計
+**1-3 Kaggle平台與Tensorflow安裝** <br />
+**1-4 Python 程式設計** <br/>
 
 ## Lesson 3
 ### 1-6 神經網路簡介與機器學習範例
