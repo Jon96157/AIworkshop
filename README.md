@@ -81,3 +81,11 @@
 ## Lesson 15
 ### 6-1 心理學應用實作
 ### 7-1 生化應用介紹
+
+## Lesson 16
+### 專題範例：4-3 虛擬代言人專題實作
+### 專題範例：4-4 試穿衣服專題實作
+### 專題範例：[Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
+
+## Final Project
+### 期末專題實作與報告
