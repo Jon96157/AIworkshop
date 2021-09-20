@@ -55,12 +55,12 @@
 ### 2-4-1 物件偵測應用實作
 
 ## Lesson 9
-### 2-4-2 車流分析專題實作
-### 2-4-3 人流分析專題實作
-
-## Lesson 10
 ### 2-5 CNN模型與影像分割應用介紹
 ### 2-5-1 影像分割應用實作
+
+
+## Lesson 10
+### 2-7 深度學習自動駕駛
 
 ## Lesson 11
 ### 2-6 CNN模型與姿態辨識應用介紹
@@ -83,9 +83,11 @@
 ### 7-1 生化應用介紹
 
 ## Lesson 16
+### 專題範例：2-4-2 車流分析專題實作
+### 專題範例：2-4-3 人流分析專題實作
 ### 專題範例：4-3 虛擬代言人專題實作
 ### 專題範例：4-4 試穿衣服專題實作
-### 專題範例：[Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
+### 專題範例：賣場安全人數監控[Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
 
 ## Final Project
 ### 期末專題實作與報告
