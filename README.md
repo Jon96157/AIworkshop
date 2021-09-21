@@ -83,10 +83,10 @@
 ### 7-1 生化應用介紹
 
 ## Lesson 16
-### 專題範例：2-4-2 車流分析專題實作
+### 專題範例：2-4-2 [車流分析專題實作](https://kaggle.com/rkuo2000/yolov5-traffic)
 ### 專題範例：2-4-3 人流分析專題實作
-### 專題範例：4-3 虛擬代言人專題實作
-### 專題範例：4-4 試穿衣服專題實作
+### 專題範例：4-3 [虛擬代言人專題實作](https://www.kaggle.com/rkuo2000/virtual-endorser)
+### 專題範例：4-4 [試穿衣服專題實作](https://www.kaggle.com/rkuo2000/segmentation-pose-tryon)
 ### 專題範例：賣場安全人數監控 [Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
 
 ## Final Project
