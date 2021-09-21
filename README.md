@@ -87,7 +87,7 @@
 ### 專題範例：2-4-3 人流分析專題實作
 ### 專題範例：4-3 虛擬代言人專題實作
 ### 專題範例：4-4 試穿衣服專題實作
-### 專題範例：賣場安全人數監控[Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
+### 專題範例：賣場安全人數監控 [Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc)
 
 ## Final Project
 ### 期末專題實作與報告
