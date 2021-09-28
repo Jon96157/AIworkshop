@@ -16,7 +16,8 @@
 [Retail Capacity Monitoring](https://youtu.be/GsXAwRAFsdc) <br/>
 [OpenAI can translate English into code with its new machine learning software Codex](https://www.theverge.com/2021/8/10/22618128/openai-codex-natural-language-into-code-api-beta-access) <br/>
 [The Impact of Artificial Intelligence and Deep Learning in Eye Diseases: A Review](https://www.frontiersin.org/articles/10.3389/fmed.2021.710329/full) <br/>
-
+[數位分身技術發展趨勢與COVID-19防疫創新應用案例](https://www.moea.gov.tw/MNS/doit/industrytech/IndustryTech.aspx?menu_id=13545&it_id=309) <br />
+[傾聽其他AI的心聲](https://highscope.ch.ntu.edu.tw/wordpress/?p=79517)<br />
 #### 1-2 深度學習介紹
 
 ## Lesson 2
